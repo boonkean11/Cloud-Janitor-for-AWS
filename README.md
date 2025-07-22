@@ -78,5 +78,6 @@ python cloud_janitor.py find-insecure-workloads
 
 *   This command does not require any additional options. It uses your local `kubeconfig` file.
 
----
+--- 
+**Disclaimer:** This tool is intended for educational purposes and personal learning environments only. It should **NOT** be used in production or critical environments.
 **Note:** This tool is for auditing purposes only. It does not delete or modify any resources. Always review the output carefully and exercise caution when making changes to your cloud infrastructure.
